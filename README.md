@@ -6,7 +6,7 @@
  
 ![GAME](https://i.imgur.com/bAaNS04.png)
 
-<br>
+
 ![BALL](https://freesvg.org/img/rainbow_sphere.png)
 
 
